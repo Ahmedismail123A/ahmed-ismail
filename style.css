@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+h1{
+    color: blue;
+    width: 35%;
+    height: 35vh;
+    background-color: aquamarine;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+
+}
